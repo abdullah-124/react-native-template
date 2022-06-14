@@ -1,0 +1,1 @@
+export const spacing = [6, 10, 16, 20, 24, 30, 36, 40];
